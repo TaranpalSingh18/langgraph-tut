@@ -6,3 +6,6 @@ langchain-core
 pyppeteer
 langchain-groq
 python-dotenv
+bs4
+arxiv
+pymupdf
